@@ -1,4 +1,5 @@
 #Install Packages first time
+#install.packages("quantmod")
 #install.packages("writexl")
 
 # Clear workspace. 
